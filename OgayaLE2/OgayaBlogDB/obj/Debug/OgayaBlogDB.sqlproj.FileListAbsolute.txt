@@ -1,0 +1,6 @@
+C:\Users\dawor\source\repos\OgayaLE2\OgayaBlogDB\bin\Debug\OgayaBlogDB.dacpac
+C:\Users\dawor\source\repos\OgayaLE2\OgayaBlogDB\bin\Debug\OgayaBlogDB.dll
+C:\Users\dawor\source\repos\OgayaLE2\OgayaBlogDB\bin\Debug\OgayaBlogDB.pdb
+C:\Users\dawor\source\repos\OgayaLE2\OgayaBlogDB\obj\Debug\OgayaBlogDB.sqlproj.AssemblyReference.cache
+C:\Users\dawor\source\repos\OgayaLE2\OgayaBlogDB\obj\Debug\OgayaBlogDB.dll
+C:\Users\dawor\source\repos\OgayaLE2\OgayaBlogDB\obj\Debug\OgayaBlogDB.pdb
